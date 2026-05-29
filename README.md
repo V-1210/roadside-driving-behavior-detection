@@ -1,4 +1,6 @@
-# BharatDriveAI – Roadside Driving Behavior Detection
+# 🚗 BharatDriveAI
+
+AI-powered roadside driving behavior detection system for Indian roads using Computer Vision and YOLO.
 
 ## Overview
 BharatDriveAI is an AI-powered roadside driving behavior detection system designed to improve Indian road safety using computer vision and real-time monitoring.
@@ -26,7 +28,16 @@ src/
 ├── utils/
 
 ## Current Status
-Prototype under active development as an academic AI project.
+
+✅ Mobile UI completed
+
+✅ Detection dashboard implemented
+
+✅ YOLO integration prototype completed
+
+🔄 Performance optimization in progress
+
+🔄 Advanced analytics under development
 
 ## Future Improvements
 - Live CCTV integration
@@ -34,10 +45,28 @@ Prototype under active development as an academic AI project.
 - Cloud-based analytics
 - Accident prediction system
 
-- ## Screenshots
 
-### Camera Detection
-![Camera](screenshots/camera.png)
+## Demo
 
-### Alerts Dashboard
-![Alerts](screenshots/alerts.png)
+The application provides:
+
+- Real-time roadside monitoring
+- YOLO-based object detection
+- Vulnerable Road User (VRU) detection
+- Safety alerts
+- Traffic analytics dashboard
+
+  
+## Screenshots
+
+### Home Screen
+![Home Screen](home%20screen.jpeg)
+
+### Detection Screen
+![Detection Screen](detection.jpeg)
+
+### Detection Results
+![Detection Results](detection%20screen.jpeg)
+
+### Statistics Dashboard
+![Statistics Dashboard](stats%20screen.jpeg)
